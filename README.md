@@ -2,11 +2,9 @@
 
 ###
 
-<h1 align="left"># Olá, eu sou Gabriel Pereira 🌐</h1>
+<h1 align="left" style="margin-bottom: 8px;"># Olá, eu sou Gabriel Pereira 🌐</h1>
 
-<br><br>
-
-<h3 align="left">## Conheça minhas redes sociais ou entre em contato comigo!  📫</h3>
+<h3 align="left" style="margin-top: 0;">## Conheça minhas redes sociais ou entre em contato comigo!  📫</h3>
 
 <br>
 
@@ -27,7 +25,12 @@
 
 <br><br>
 
-<h3 align="left">{ Sobre Mim } 👨‍💻<br><br>Sou desenvolvedor formado em Análise e Desenvolvimento de Sistemas.<br>Formação em Gestão de Pessoas, Projetos e Pós graduado em Administração Pública!<br>Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento full-stack.<br>Buscando criar projetos que façam sentido na prática — Pensando sempre na entrega de valor!</h3>
+<h3 align="left" style="line-height: 1.6; font-size: 1.1em;">{ Sobre Mim } 👨‍💻<br><br>
+Sou desenvolvedor formado em Análise e Desenvolvimento de Sistemas.<br><br>
+Formação em Gestão de Pessoas, Projetos e Pós graduado em Administração Pública!<br><br>
+Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento full-stack.<br><br>
+Buscando criar projetos que façam sentido na prática — Pensando sempre na entrega de valor!
+</h3>
 
 <br><br>
 
@@ -58,4 +61,3 @@
 </div>
 
 <br><br>
-
