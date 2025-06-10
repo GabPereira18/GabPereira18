@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="left">{ Sobre Mim } 👨‍💻<br><br>Sou desenvolvedor formado em Análise e Desenvolvimento de Sistemas.<br>Formação em Gestão de Pessoas, Projetos e Pós graduado em Administração Pública!<br>Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento full-stack.<br>Buscando criar projetos que façam sentido na prática — Pensando sempre na entrega de valor!</h2>
+<h3 align="left">{ Sobre Mim } 👨‍💻<br><br>Sou desenvolvedor formado em Análise e Desenvolvimento de Sistemas.<br>Formação em Gestão de Pessoas, Projetos e Pós graduado em Administração Pública!<br>Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento full-stack.<br>Buscando criar projetos que façam sentido na prática — Pensando sempre na entrega de valor!</h2>
 
 ###
 
