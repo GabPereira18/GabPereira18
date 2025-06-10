@@ -9,19 +9,17 @@
 <br>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gabpereira18/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.instagram.com/gabrielwandel/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="margin-right: 15px;" />
-  </a>
-  <a href="https://wa.me/5565992213626" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" style="margin-right: 15px;" />
-  </a>
-  <a href="mailto:Gabrielwandell@hotmail.com" target="_blank">
+  <a href="https://www.linkedin.com/in/gabpereira18/" target="_blank" style="display: inline-block; margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a><a href="https://www.instagram.com/gabrielwandel/" target="_blank" style="display: inline-block; margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a><a href="https://wa.me/5565992213626" target="_blank" style="display: inline-block; margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+  </a><a href="mailto:Gabrielwandell@hotmail.com" target="_blank" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
   </a>
 </div>
+
 
 <br><br>
 
