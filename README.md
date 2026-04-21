@@ -1,63 +1,89 @@
 <img align="right" height="210" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNyNDA1azRwdmZhM2g0bHFjcnhva3pwejhsb2s5eGRlbGlnMGs1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
-###
+<h1 align="left">Olá, eu sou Gabriel Pereira 👋</h1>
 
-<h1 align="left" style="margin-bottom: 8px;"># Olá, eu sou Gabriel Pereira 🌐</h1>
-
-<h3 align="left" style="margin-top: 0;">## Conheça minhas redes sociais ou entre em contato comigo!  📫</h3>
+<h3 align="left">🎯 Analista de Projetos | Gestão de Projetos | Processos & Tecnologia</h3>
 
 <br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabpereira18/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.instagram.com/gabrielwandel/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="margin-right: 15px;" />
-  </a>
-  <a href="https://wa.me/5565992213626" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:Gabrielwandell@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="email logo" />
   </a>
 </div>
 
 <br><br>
 
-<h3 align="left" style="line-height: 1.6; font-size: 1.1em;">{ Sobre Mim } 👨‍💻<br><br>
-Sou desenvolvedor formado em Análise e Desenvolvimento de Sistemas.<br><br>
-Formação em Gestão de Pessoas, Projetos e Pós graduado em Administração Pública!<br><br>
-Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento full-stack.<br><br>
-Buscando criar projetos que façam sentido na prática — Pensando sempre na entrega de valor!
-</h3>
+<h3 align="left">💡 Sobre mim</h3>
 
-<br><br>
+<p>
+Sou um profissional com mais de 11 anos de experiência no setor público, com atuação em ambientes administrativos e de tecnologia, onde desenvolvi uma base sólida em organização, governança e estruturação de processos.
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="margin-right: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="margin-right: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" style="margin-right: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="margin-right: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" style="margin-right: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" style="margin-right: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" style="margin-right: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" style="margin-right: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="margin-right: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" style="margin-right: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" style="margin-right: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" style="margin-right: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" style="margin-right: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo" style="margin-right: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" style="margin-right: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
-</div>
+<p>
+Ao longo da minha trajetória, consolidei experiência na interface entre áreas de negócio e tecnologia, atuando na gestão e organização de projetos, com foco em previsibilidade, eficiência e qualidade das entregas.
+</p>
+
+<p>
+Tenho vivência no alinhamento entre stakeholders e equipes técnicas, acompanhamento de execuções e suporte à evolução de projetos, contribuindo para maior clareza, organização e consistência na condução das iniciativas.
+</p>
+
+<p>
+Minha atuação é orientada por uma abordagem estruturada, analítica e focada em resultados, com ênfase na integração entre pessoas, processos e tecnologia.
+</p>
+
+<br>
+
+<h3 align="left">🎓 Formação</h3>
+
+<p>
+Formação multidisciplinar que integra tecnologia, gestão e negócios, com graduação em Análise e Desenvolvimento de Sistemas e Gestão de Pessoas, além de especialização em Administração Pública.
+</p>
+
+<p>
+Possuo sólida base em Gestão de Projetos e Ciência de Dados, fortalecendo minha capacidade analítica, visão sistêmica e suporte à tomada de decisão baseada em dados.
+</p>
+
+<br>
+
+<h3 align="left">🧠 Competências</h3>
+
+<ul>
+  <li>Gestão de Projetos</li>
+  <li>Mapeamento e melhoria de processos</li>
+  <li>Gestão de stakeholders</li>
+  <li>Organização e acompanhamento de projetos</li>
+  <li>Integração entre negócio e tecnologia</li>
+  <li>Análise e estruturação de informações</li>
+  <li>Suporte à tomada de decisão</li>
+</ul>
+
+<br>
+
+<h3 align="left">🛠️ Ferramentas</h3>
+
+<p>
+Jira • Miro • Notion • Excel Avançado • Power BI • Metodologias Ágeis (Scrum / Kanban)
+</p>
+
+<br>
+
+<h3 align="left">🚀 Diferencial</h3>
+
+<p>
+Possuo base técnica em desenvolvimento de sistemas, o que fortalece minha comunicação com equipes técnicas e amplia minha capacidade de análise na definição e condução de soluções.
+</p>
+
+<p>
+Essa combinação entre tecnologia, gestão e pessoas contribui para uma atuação mais completa na condução de projetos.
+</p>
 
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabPereira18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabPereira18&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabPereira18&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabPereira18&layout=compact&theme=tokyonight" height="170" />
 </div>
-
-<br><br>
